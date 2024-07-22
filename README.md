@@ -15,6 +15,9 @@ Hi, I'm Codie, an aspiring Software Developer with a passion for learning and a 
 - [X] **Learn My First Coding Language**
   - I started with Python in 2017, driven by my daughter's birth. I continually push myself to learn more every day and contribute to my classes and open-source projects.
 
+- [ ] **First Freelance Opportunity**
+  - Secure and complete my first freelance opportunity.
+
 - [ ] **Graduate with Bachelor's Degree**
   - As a first-generation college student, graduating is a significant milestone. I am committed to completing this educational journey.
 
@@ -76,7 +79,6 @@ Hi, I'm Codie, an aspiring Software Developer with a passion for learning and a 
   - Successfully demonstrated skills in Web Application Development fundamentals and completed required coursework.
   - Institution: Colorado State University
   - Date: Jan 14, 2024
-
 
 ## Special Thanks
 I would love to dedicate this section to my family, friends, peers, and everyone else. Without the love, dedication, and support I have received, I don't know where I would be.
