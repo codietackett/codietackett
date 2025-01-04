@@ -15,7 +15,7 @@ Hi, I'm Codie, an aspiring Software Developer with a passion for learning and a 
 - [X] **Learn My First Coding Language**
   - I started with Python in 2017, driven by my daughter's birth. I continually push myself to learn more every day and contribute to my classes and open-source projects.
 
-- [ ] **First Freelance Opportunity**
+- [X] **First Freelance Opportunity**
   - Secure and complete my first freelance opportunity.
 
 - [ ] **Graduate with Bachelor's Degree**
@@ -38,6 +38,8 @@ Hi, I'm Codie, an aspiring Software Developer with a passion for learning and a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
@@ -66,13 +68,23 @@ Hi, I'm Codie, an aspiring Software Developer with a passion for learning and a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img width="12" />
 </div>
 
 ## Projects
 - **Murdered By Nails**: Landing/Coming Soon Page for [Murdered By Nails](https://www.murderedbynails.com).
   - Designed and developed the landing page for an up-and-coming cosmetology business in Central KY.
-  - Technologies used: HTML, CSS, JavaScript, Tailwind CSS.
+  - Technologies used: HTML, CSS, JavaScript, TailwindCSS.
 
+- **EmuDevs**: Working with a small team of developers to bring to life a solution for emulation enthusiasts for storing, sharing, and downloading resources to enjoy their hobby.
+  - Designed and implemented the news system
+  - Technologies used: React, Supabase, JavaScript, TypeScript, TailwindCSS.
 
 ## Certifications
 - **Web Application Development**
