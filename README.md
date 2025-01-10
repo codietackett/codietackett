@@ -21,8 +21,8 @@ Hi, I'm Codie, an aspiring Software Developer with a passion for learning and a 
 - [ ] **Graduate with Bachelor's Degree**
   - As a first-generation college student, graduating is a significant milestone. I am committed to completing this educational journey.
 
-- [ ] **First Job in the Field**
-  - I am actively seeking employment as an entry-level Software Developer, Web Developer, Programmer Analyst, or similar roles. Please feel free to reach out!
+- [X] **First Job in the Field**
+  - I have accepted an offer!
 
 ## Languages and Tools I have worked with
 <div align="center">
