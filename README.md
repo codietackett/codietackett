@@ -18,7 +18,7 @@ Hi, I'm Codie, an aspiring Software Developer with a passion for learning and a 
 - [X] **First Freelance Opportunity**
   - Secure and complete my first freelance opportunity.
 
-- [ ] **Graduate with Bachelor's Degree**
+- [X] **Graduate with Bachelor's Degree**
   - As a first-generation college student, graduating is a significant milestone. I am committed to completing this educational journey.
 
 - [X] **First Job in the Field**
