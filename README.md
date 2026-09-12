@@ -1,2 +1,0 @@
-# Codie Tackett
-
